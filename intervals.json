@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T06:07:50.851247",
+  "generated_at": "2026-06-25T09:44:16.904525",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -225,6 +225,80 @@
           "avg_hr": 146,
           "max_hr": 147,
           "avg_cadence": 80.5,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i160157008",
+      "date": "2026-06-25",
+      "type": "Run",
+      "name": "Frankfurt am Main Running",
+      "interval_summary": [
+        "5x 6m58s 136bpm",
+        "1x 2s 140bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "418s@136bpm77rpm",
+          "duration_secs": 440,
+          "avg_hr": 124,
+          "max_hr": 133,
+          "avg_cadence": 75.274826,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 130,
+          "max_hr": 130,
+          "avg_cadence": 79.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "418s@136bpm77rpm",
+          "duration_secs": 417,
+          "avg_hr": 135,
+          "max_hr": 159,
+          "avg_cadence": 78.02638,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "418s@136bpm77rpm",
+          "duration_secs": 407,
+          "avg_hr": 140,
+          "max_hr": 145,
+          "avg_cadence": 77.874695,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "418s@136bpm77rpm",
+          "duration_secs": 419,
+          "avg_hr": 140,
+          "max_hr": 146,
+          "avg_cadence": 76.188545,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "418s@136bpm77rpm",
+          "duration_secs": 407,
+          "avg_hr": 141,
+          "max_hr": 145,
+          "avg_cadence": 77.90172,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "2s@140bpm78rpm",
+          "duration_secs": 2,
+          "avg_hr": 140,
+          "max_hr": 141,
+          "avg_cadence": 78.0,
           "zone": 1
         }
       ]
