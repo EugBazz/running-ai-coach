@@ -1,95 +1,10 @@
 {
-  "generated_at": "2026-07-18T23:26:30.871801",
+  "generated_at": "2026-07-19T01:01:57.561343",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i162552089",
-      "date": "2026-07-04",
-      "type": "Run",
-      "name": "Frankfurt am Main Running",
-      "interval_summary": [
-        "1x 7m24s 122bpm",
-        "6x 6m24s 135bpm",
-        "1x 2m32s 136bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "444s@122bpm76rpm",
-          "duration_secs": 444,
-          "avg_hr": 122,
-          "max_hr": 133,
-          "avg_cadence": 75.915634,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "384s@135bpm79rpm",
-          "duration_secs": 387,
-          "avg_hr": 131,
-          "max_hr": 136,
-          "avg_cadence": 79.77261,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "384s@135bpm79rpm",
-          "duration_secs": 388,
-          "avg_hr": 133,
-          "max_hr": 156,
-          "avg_cadence": 78.25258,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "384s@135bpm79rpm",
-          "duration_secs": 380,
-          "avg_hr": 137,
-          "max_hr": 156,
-          "avg_cadence": 77.77631,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "384s@135bpm79rpm",
-          "duration_secs": 380,
-          "avg_hr": 136,
-          "max_hr": 152,
-          "avg_cadence": 78.573685,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "384s@135bpm79rpm",
-          "duration_secs": 388,
-          "avg_hr": 135,
-          "max_hr": 139,
-          "avg_cadence": 79.0,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "384s@135bpm79rpm",
-          "duration_secs": 379,
-          "avg_hr": 136,
-          "max_hr": 140,
-          "avg_cadence": 78.92876,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "152s@136bpm78rpm",
-          "duration_secs": 152,
-          "avg_hr": 136,
-          "max_hr": 139,
-          "avg_cadence": 78.335526,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i163130586",
       "date": "2026-07-06",
