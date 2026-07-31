@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T03:49:38.029640",
+  "generated_at": "2026-07-31T06:43:23.954726",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -506,6 +506,72 @@
           "avg_hr": 142,
           "max_hr": 148,
           "avg_cadence": 76.115105,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i170999768",
+      "date": "2026-07-31",
+      "type": "Run",
+      "name": "Frankfurt am Main Running",
+      "interval_summary": [
+        "5x 6m57s 134bpm",
+        "1x 2m31s 140bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "417s@134bpm77rpm",
+          "duration_secs": 414,
+          "avg_hr": 123,
+          "max_hr": 133,
+          "avg_cadence": 77.21256,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "417s@134bpm77rpm",
+          "duration_secs": 433,
+          "avg_hr": 134,
+          "max_hr": 139,
+          "avg_cadence": 74.57275,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "417s@134bpm77rpm",
+          "duration_secs": 417,
+          "avg_hr": 136,
+          "max_hr": 142,
+          "avg_cadence": 77.52518,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "417s@134bpm77rpm",
+          "duration_secs": 409,
+          "avg_hr": 138,
+          "max_hr": 144,
+          "avg_cadence": 77.9511,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "417s@134bpm77rpm",
+          "duration_secs": 411,
+          "avg_hr": 139,
+          "max_hr": 147,
+          "avg_cadence": 77.89781,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "151s@140bpm78rpm",
+          "duration_secs": 151,
+          "avg_hr": 140,
+          "max_hr": 143,
+          "avg_cadence": 77.7351,
           "zone": 1
         }
       ]
