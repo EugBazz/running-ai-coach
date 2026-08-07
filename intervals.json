@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T16:34:03.429673",
+  "generated_at": "2026-08-07T17:33:28.590634",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -468,6 +468,89 @@
           "avg_hr": 139,
           "max_hr": 141,
           "avg_cadence": 77.7619,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i173472963",
+      "date": "2026-08-07",
+      "type": "Run",
+      "name": "Frankfurt am Main Running",
+      "interval_summary": [
+        "6x 6m51s 133bpm",
+        "1x 14s 143bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "411s@133bpm78rpm",
+          "duration_secs": 420,
+          "avg_hr": 120,
+          "max_hr": 131,
+          "avg_cadence": 76.84762,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 130,
+          "max_hr": 130,
+          "avg_cadence": 79.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "411s@133bpm78rpm",
+          "duration_secs": 407,
+          "avg_hr": 131,
+          "max_hr": 136,
+          "avg_cadence": 78.62162,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "411s@133bpm78rpm",
+          "duration_secs": 408,
+          "avg_hr": 134,
+          "max_hr": 140,
+          "avg_cadence": 78.428925,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "411s@133bpm78rpm",
+          "duration_secs": 408,
+          "avg_hr": 137,
+          "max_hr": 142,
+          "avg_cadence": 78.26716,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "411s@133bpm78rpm",
+          "duration_secs": 421,
+          "avg_hr": 137,
+          "max_hr": 142,
+          "avg_cadence": 74.41568,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "411s@133bpm78rpm",
+          "duration_secs": 401,
+          "avg_hr": 141,
+          "max_hr": 146,
+          "avg_cadence": 78.93267,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "14s@143bpm78rpm",
+          "duration_secs": 14,
+          "avg_hr": 143,
+          "max_hr": 145,
+          "avg_cadence": 77.78571,
           "zone": 1
         }
       ]
